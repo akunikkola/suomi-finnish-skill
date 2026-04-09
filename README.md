@@ -15,7 +15,7 @@ LLMs make predictable mistakes when writing Finnish:
 - **Wrong punctuation**: English-style decimals (3.14 instead of 3,14), Oxford commas, missing commas before subordinate clauses
 - **Overly pompous tone**: American corporate rhetoric translated literally into Finnish
 - **Capitalization errors**: weekdays, months, and nationalities capitalized (English rules applied to Finnish)
-- **Broken inflection (taivutusmuodot)**: Finnish has 15 grammatical cases and complex word inflection — LLMs frequently produce wrong case endings, garbled possessive suffixes, and incorrect verb conjugations
+- **Broken inflection**: Finnish has 15 grammatical cases and complex word inflection — LLMs frequently produce wrong case endings, garbled possessive suffixes, and incorrect verb conjugations
 - **Mangled ä and ö**: LLMs drop or swap Finnish diacritics, writing "a" instead of "ä" and "o" instead of "ö", which changes word meanings entirely and leads to incorrect translations
 
 This skill catches and prevents all of these. It's been used in production to generate hundreds of pages of Finnish web content.
