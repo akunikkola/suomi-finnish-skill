@@ -1,6 +1,6 @@
-# Suomi Finnish Skill for Claude Code
+# Suomi Finnish Skill for Claude
 
-**Teach Claude to write correct Finnish.** This skill gives Claude Code comprehensive Finnish language rules — spelling, grammar, punctuation, compound words, and style — so it produces natural, publication-ready Finnish instead of the awkward, anglicism-filled output LLMs typically generate.
+**Teach Claude to write correct Finnish.** This skill gives Claude comprehensive Finnish language rules — spelling, grammar, punctuation, compound words, and style — so it produces natural, publication-ready Finnish instead of the awkward, anglicism-filled output LLMs typically generate.
 
 Built on the official [Kielitoimiston ohjepankki](https://kielitoimistonohjepankki.fi/) (Institute for the Languages of Finland).
 
@@ -103,9 +103,9 @@ MIT
 
 ---
 
-# Suomi Finnish Skill Claude Codelle
+# Suomi Finnish Skill Claudelle
 
-**Opeta Claude kirjoittamaan oikeaa suomea.** Tämä skill antaa Claude Codelle kattavat suomen kielen säännöt — oikeinkirjoituksen, kieliopin, pilkutuksen, yhdyssanat ja tyylin — jotta se tuottaa luonnollista, julkaisukelpoista suomea anglismien täyttämän konekielen sijaan.
+**Opeta Claude kirjoittamaan oikeaa suomea.** Tämä skill antaa Claudelle kattavat suomen kielen säännöt — oikeinkirjoituksen, kieliopin, pilkutuksen, yhdyssanat ja tyylin — jotta se tuottaa luonnollista, julkaisukelpoista suomea anglismien täyttämän konekielen sijaan.
 
 Perustuu [Kielitoimiston ohjepankin](https://kielitoimistonohjepankki.fi/) virallisiin ohjeisiin.
 
