@@ -105,7 +105,7 @@ MIT
 
 ---
 
-# Finnish language skill for Claude, Codex and any other AI that supports skills
+# Suomen kielen skills-tiedosto Claudelle, Codexille tai mille tahansa muulle skills-ominaisuutta tukevalle työkalulle
 
 **Opeta tekoäly kirjoittamaan oikeaa suomea.** Tämä skill antaa tekoälylle kattavat suomen kielen säännöt — oikeinkirjoituksen, kieliopin, pilkutuksen, yhdyssanat ja tyylin — jotta se tuottaa luonnollista, julkaisukelpoista suomea anglismien täyttämän konekielen sijaan.
 
