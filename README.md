@@ -58,6 +58,22 @@ mkdir -p .claude/skills && curl -sL https://raw.githubusercontent.com/akunikkola
 mkdir -p ~/.claude/skills && curl -sL https://raw.githubusercontent.com/akunikkola/suomi-finnish-skill/main/SKILL.md -o ~/.claude/skills/suomi-finnish.md
 ```
 
+### Option 4: Install with AI
+
+Give Claude, Codex, or any other skill-supporting AI the repo URL and ask it to install the skill:
+
+```
+Install this skill: https://github.com/akunikkola/suomi-finnish-skill
+```
+
+### Option 5: Download the .skill file
+
+Download the ready-made skill package and add it directly to Claude:
+
+[Download suomi-finnish.skill (Google Drive)](https://drive.google.com/file/d/1NkfIn7sj8bvBmAM4ZI2ypP3kv9UtRMHF/view?usp=sharing)
+
+Add the downloaded file to Claude by dragging it into the Claude Code window or importing it as a skill from settings.
+
 ## What it covers
 
 | Area | Examples |
@@ -138,6 +154,22 @@ mkdir -p .claude/skills && curl -sL https://raw.githubusercontent.com/akunikkola
 # Globaali
 mkdir -p ~/.claude/skills && curl -sL https://raw.githubusercontent.com/akunikkola/suomi-finnish-skill/main/SKILL.md -o ~/.claude/skills/suomi-finnish.md
 ```
+
+### Vaihtoehto 4: Asenna tekoälyllä
+
+Anna Claudelle, Codexille tai muulle skillejä tukevalle tekoälylle repon osoite ja pyydä asentamaan skill:
+
+```
+Asenna tämä skill: https://github.com/akunikkola/suomi-finnish-skill
+```
+
+### Vaihtoehto 5: Lataa .skill-tiedosto
+
+Lataa valmis skill-paketti ja lisää se suoraan Claudeen:
+
+[Lataa suomi-finnish.skill (Google Drive)](https://drive.google.com/file/d/1NkfIn7sj8bvBmAM4ZI2ypP3kv9UtRMHF/view?usp=sharing)
+
+Lisää ladattu tiedosto Claudeen raahaamalla se Claude Code -ikkunaan tai tuomalla se skillinä asetuksista.
 
 ## Mitä skill kattaa
 
