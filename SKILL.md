@@ -197,19 +197,21 @@ Pisteettömiä ovat:
 ### 5.1 Numerot vs. kirjaimet
 
 - Pienet luvut (1–10) mielellään kirjaimin juoksevassa tekstissä: yksi, kaksi, kolme
-- Suuret ja tarkat luvut numeroilla: 150, 2 500, 1 000 000
-- Tilastollisissa ja teknisistä yhteyksissä numerot aina numeroilla
+- Suuret ja tarkat luvut numeroilla: 150, 2 500, 1 000 000
+- Tilastollisissa ja teknisistä yhteyksissä luvut aina numeroilla
 
 ### 5.2 Tuhaterottimet ja desimaalit
 
-- Tuhaterotin on välilyönti (EI piste, EI pilkku): 1 000, 10 000, 1 000 000
+- Tuhaterotin on välilyönti (EI piste, EI pilkku): 1 000, 10 000, 1 000 000
+  - Välilyöntinä käytetään ensisijaisesti sitovaa välilyöntiä (Unicode-merkkikoodi U+00A0), jotta luku ei jakaudu eri riveille
 - Desimaalierotin on pilkku: 3,14 ja 0,5
-- Nelinumeroiset luvut voi kirjoittaa ilman tuhaterotinta: 1000 tai 1 000
+- Nelinumeroiset luvut voi kirjoittaa ilman tuhaterotinta: 1000 tai 1 000
 
 ### 5.3 Päivämäärät
 
 - Suositeltava muoto: 11. maaliskuuta 2026 tai 11.3.2026
 - Päivämäärässä pisteet ilman välilyöntejä: 11.3.2026 (EI: 11. 3. 2026)
+- Kuukauden perässä piste, jos vuosi on jätetty pois: 11.3. (EI: 11.3)
 - Kellonajat pisteellä: klo 14.30 (EI: 14:30)
 
 ### 5.4 Lukusanojen taivutus
@@ -272,8 +274,8 @@ Huom. Passiivia EI pidä käyttää liiallisesti, varsinkaan virkatekstissä —
 ### 8.1 Lainausmerkit
 
 Suomessa käytetään:
-- Ensisijaisesti: "lainaus" (ala- ja yläpuoliset kaksoisheittomerkit)
-- Toissijaisesti (lainauksen sisällä): 'lainaus lainauksen sisällä'
+- Ensisijaisesti: ”lainaus” (ala- ja yläpuoliset kaksoisheittomerkit)
+- Toissijaisesti (lainauksen sisällä): ’lainaus lainauksen sisällä’
 
 EI käytetä:
 - Kulmikkaita lainausmerkkejä »näin» (ruotsin malli)
