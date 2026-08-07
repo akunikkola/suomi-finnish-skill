@@ -1,6 +1,6 @@
 ---
 name: suomi-finnish
-description: >
+description: >-
   Suomen kielen oikeinkirjoitus-, kielioppi- ja tyyliohjeistus verkkosivujen, dokumenttien ja muun sisällön tuottamiseen ja tarkastamiseen. Käytä tätä skilliä AINA kun kirjoitat tai tuotat suomenkielistä tekstiä, tarkistat suomenkielistä sisältöä, käännät tekstiä suomeksi, luot verkkosivuston sisältöä suomeksi, kirjoitat markkinointimateriaalia suomeksi, tai kun käyttäjä mainitsee suomen kielen, oikeinkirjoituksen, kieliopin, pilkutuksen, yhdyssanat tai muut suomenkieliset kirjoitussäännöt. Triggeröi myös kun käyttäjä pyytää oikolukua, tekstin tarkastusta tai korjausehdotuksia suomeksi kirjoitetulle tekstille. Käytä tätä skilliä myös kun luot sisältöä suomalaisille verkkosivuille tai palveluille — vaikka käyttäjä ei erikseen mainitse suomen kieltä.
 ---
 
@@ -10,7 +10,7 @@ Tämä skill sisältää keskeiset suomen kielen kirjoitusohjeet ja säännöt, 
 
 Lähde: Kielitoimiston ohjepankki (Kotimaisten kielten keskus / Opetushallitus).
 
----
+______________________________________________________________________
 
 ## 1. YHDYSSANAT — Yleisin virhetyyppi
 
@@ -19,14 +19,17 @@ Yhdyssanavirheet ovat suomen kielen yleisin kirjoitusvirhe, erityisesti tekoäly
 ### 1.1 Perusperiaate: milloin yhteen, milloin erikseen
 
 Kun peräkkäiset sanat muodostavat kiinteän merkityskokonaisuuden, ne kirjoitetaan yhteen (= yhdyssana):
+
 - aamupala, mustasukkainen, äidinkieli, hengitysilma
 
 Kun sanat ovat lauseyhteydessä rinnakkain mutta eivät muodosta vakiintunutta kokonaisuutta, ne kirjoitetaan erikseen (= sanaliitto):
+
 - talon katto, nuori kapinallinen, sen sijaan
 
 ### 1.2 Nominatiivialkuiset yhdyssanat
 
 Kun sanajonon ensimmäinen osa on perusmuodossa (nominatiivissa) oleva substantiivi, kyseessä on AINA yhdyssana:
+
 - aamupala (EI: aamu pala)
 - tulikuuma (EI: tuli kuuma)
 - rantakunto (EI: ranta kunto)
@@ -37,6 +40,7 @@ Kun sanajonon ensimmäinen osa on perusmuodossa (nominatiivissa) oleva substanti
 ### 1.3 Genetiivialkuiset yhdyssanat vs. sanaliitot
 
 Genetiivimuotoisella alkuosalla voi olla kyse joko yhdyssanasta tai sanaliitosta:
+
 - äidinkieli (vakiintunut kokonaisuus → yhdyssana)
 - äidin kieli (konkreettinen omistus → sanaliitto)
 - maahanmuutto (vakiintunut termi → yhdyssana)
@@ -45,14 +49,17 @@ Genetiivimuotoisella alkuosalla voi olla kyse joko yhdyssanasta tai sanaliitosta
 ### 1.4 Adjektiivialkuiset yhdyssanat
 
 Perusmuotoinen adjektiivi + substantiivi on yhdyssana, kun kokonaisuus on vakiintunut lajinnimi tai termi:
+
 - harmaalokki, mustikka, pitkämekko, isoveli
 
 Erikseen kun adjektiivi kuvaa substantiivia vapaasti:
+
 - harmaa lokki (yksittäinen lokki, joka sattuu olemaan harmaa)
 
 ### 1.5 Partisiippi- ja infinitiivimuodot: yleensä erikseen
 
 Sanaparin jälkiosana olevan partisiipin (-va, -nut, -tu) tai infinitiivin (-essa, -en, -matta) sisältävät ilmaukset kirjoitetaan yleensä ERIKSEEN alkuosastaan:
+
 - läsnä oleva (EI: läsnäoleva, PAITSI kuvallisessa merkityksessä)
 - edellä mainittu (EI: edellämainittu)
 - voimassa oleva (EI: voimassaoleva)
@@ -60,6 +67,7 @@ Sanaparin jälkiosana olevan partisiipin (-va, -nut, -tu) tai infinitiivin (-ess
 - lukuun ottamatta (EI: lukuunottamatta)
 
 POIKKEUS — Kun merkitys on erikoistunut tai kuvallinen, kirjoitetaan yhteen:
+
 - silmäänpistävä (= huomiota herättävä)
 - poissaoleva (= hajamielinen katse)
 - asiantunteva (= osaava)
@@ -67,6 +75,7 @@ POIKKEUS — Kun merkitys on erikoistunut tai kuvallinen, kirjoitetaan yhteen:
 ### 1.6 Yhdysmerkki yhdyssanoissa
 
 Yhdysmerkkiä (-) käytetään yhdyssanassa kun:
+
 - alkuosana on yksittäinen kirjain, numero tai lyhenne: A-rappu, F1-kilpailu, tosi-tv, EU-maa
 - alkuosana on vierassana ja kokonaisuus olisi muuten hankala lukea: pop-ohjelma, hip-hop-musiikki
 - sanaliittomainen ilmaus on määritteenä: avaimet käteen -periaate
@@ -74,6 +83,7 @@ Yhdysmerkkiä (-) käytetään yhdyssanassa kun:
 ### 1.7 Yleisimmät yhdyssanavirheet (erityishuomio)
 
 Nämä kirjoitetaan AINA yhteen:
+
 - verkkosivusto, verkkokauppa, verkkopalvelu
 - asiakaspalvelu, asiakaskokemus
 - tietoturva, tietokanta, tietojärjestelmä
@@ -84,21 +94,24 @@ Nämä kirjoitetaan AINA yhteen:
 - terveyspalvelu, terveydenhuolto
 - työelämä, työpaikka, työtehtävä
 
----
+______________________________________________________________________
 
 ## 2. PILKUTUS
 
 ### 2.1 Pilkku päälauseiden välissä
 
 Rakenteeltaan kokonaisten päälauseiden väliin tulee pilkku:
+
 - "Kesällä perhe kunnosti mökin saunaa, ja talvella osa perheestä viimeisteli keittiön."
 
 Kun rinnastuskonjunktiolla (ja, tai, sekä) alkavalla lauseella on edeltävän päälauseen kanssa yhteinen jäsen, pilkkua EI käytetä:
+
 - "Perhe kunnosti mökin saunaa ja viimeisteli keittiöremontin." (yhteinen tekijä: perhe)
 
 ### 2.2 Pilkku pää- ja sivulauseen välissä
 
 Päälauseen ja sivulauseen väliin tulee AINA pilkku:
+
 - "Ministeri totesi, että asia on loppuun käsitelty."
 - "Jos ääniä ei kerry tarpeeksi, päätöstä ei voi tehdä."
 - "Hän kysyi, tulenko ajoissa."
@@ -122,6 +135,7 @@ Päälauseen ja sivulauseen väliin tulee AINA pilkku:
 ### 2.6 Pilkku luetteloissa
 
 Rinnasteisten osien välissä käytetään pilkkua:
+
 - "Tarvitsemme jauhoja, sokeria, voita ja kananmunia."
 
 Huom. Suomen kielessä EI käytetä Oxford-pilkkua (eli pilkkua ennen viimeistä ja-sanaa luettelossa).
@@ -129,16 +143,18 @@ Huom. Suomen kielessä EI käytetä Oxford-pilkkua (eli pilkkua ennen viimeistä
 ### 2.7 Desimaalipilkku
 
 Suomessa desimaalierotin on pilkku (EI piste):
+
 - 3,14 (EI: 3.14)
 - 1 000,50 € (EI: 1,000.50 €)
 
----
+______________________________________________________________________
 
 ## 3. ALKUKIRJAIN: ISO VAI PIENI
 
 ### 3.1 Iso alkukirjain
 
 Isoa alkukirjainta käytetään:
+
 - Virkkeen alussa
 - Erisnimissä: Suomi, Helsinki, Euroopan unioni
 - Nimien kaikissa osissa (paitsi yhdistävissä pikkusanoissa pitkissä nimissä): Kotimaisten kielten keskus
@@ -147,6 +163,7 @@ Isoa alkukirjainta käytetään:
 ### 3.2 Pieni alkukirjain
 
 Suomessa kirjoitetaan pienellä:
+
 - Kansallisuudet ja kielet: suomalainen, ruotsin kieli, englanti
 - Viikonpäivät: maanantai, tiistai
 - Kuukaudet: tammikuu, helmikuu
@@ -161,19 +178,21 @@ Suomessa kirjoitetaan pienellä:
 - Juhlapyhät isolla: Joulu, Juhannus, Pääsiäinen (HUOM: tästä on vaihtelua; arkisissa yhteyksissä myös pienellä)
 - Taideteosten nimet: ensimmäinen sana isolla, muut pienellä: Seitsemän veljestä
 
----
+______________________________________________________________________
 
 ## 4. LYHENTEET
 
 ### 4.1 Pisteelliset lyhenteet
 
 Kun sanan loppu ei ole mukana lyhenteessä (loppulyhenne), käytetään pistettä:
+
 - esim. (esimerkiksi), mm. (muun muassa), jne. (ja niin edelleen)
 - ns. (niin sanottu), ks. (katso), vrt. (vertaa)
 
 ### 4.2 Pisteettömät lyhenteet
 
 Pisteettömiä ovat:
+
 - Sisälyhenteet, joissa sanan loppu on mukana: nro (numero), tri (tohtori)
 - Isolla kirjoitetut kirjainlyhenteet: EU, YK, YLE, KELA
 - Mittayksiköiden tunnukset: kg, km, m, cm, mm, l, dl, h, min, s
@@ -190,7 +209,7 @@ Pisteettömiä ovat:
 - Prosenttimerkin edelle välilyönti: 15 %, 3,5 %
 - Euron ja muiden valuuttamerkkien edelle tai jälkeen välilyönti: 100 €, 50 $
 
----
+______________________________________________________________________
 
 ## 5. LUVUT JA NUMEROT
 
@@ -219,65 +238,73 @@ Pisteettömiä ovat:
 - Perusluvut taipuvat kaikissa osissa: kahdensadan, kolmestasadasta
 - Järjestyslukujen tunnus piste: 1., 2., 3. (ensimmäinen, toinen, kolmas)
 
----
+______________________________________________________________________
 
 ## 6. VIIVAT
 
 ### 6.1 Yhdysmerkki eli lyhyt viiva (-)
 
 Käytetään:
+
 - Yhdyssanoissa tietyissä tapauksissa: EU-maa, A-rappu
 - Tavutuksessa rivinvaihdossa: kir-joi-tus
 
 ### 6.2 Ajatusviiva eli pitkä viiva (–)
 
 Käytetään:
+
 - Väliin-ilmauksissa: sivut 10–15, klo 8–16, vuosina 2020–2025
 - Ajatusviivana lauseen keskellä: "Asiaa pohdittiin – eikä vähiten siksi, että…"
 - Luetelman alussa
 
 Ajatusviiva on pidempi kuin yhdysmerkki. Niitä EI saa sekoittaa.
 
----
+______________________________________________________________________
 
 ## 7. LAUSERAKENNE JA KIELIOPPI
 
 ### 7.1 Kongruenssi (luvun vastaavuus)
 
 Predikaatti ja subjekti vastaavat toisiaan luvussa:
+
 - "Lapset leikkivät pihalla." (monikko + monikko)
 - "Osa lapsista leikkii pihalla." (yksikkö, koska "osa" on subjekti)
 
 ### 7.2 Sijamuotojen oikea käyttö
 
 Yleisimmät virheet:
+
 - Partitiivin ja nominatiivin sekoittaminen: "Tarvitaan uusia ratkaisuja" (EI: uudet ratkaisut)
 - Postpositioiden rektio: "asian suhteen" (EI: asiaan suhteen)
 
 ### 7.3 Omistusliitteet
 
 Omistusliitteitä suositellaan käytettäväksi kirjakielessä:
+
 - "taloni" (minun taloni), "talosi" (sinun talosi)
 - Puhekielinen "mun talo" ei kuulu yleiskieleen
 
 ### 7.4 Passiivin käyttö
 
 Suomen passiivia käytetään usein yleistävässä merkityksessä:
+
 - "Suomessa puhutaan suomea ja ruotsia."
 
 Huom. Passiivia EI pidä käyttää liiallisesti, varsinkaan virkatekstissä — aktiivinen ilmaus on usein selkeämpi.
 
----
+______________________________________________________________________
 
 ## 8. LAINAUS- JA ERIKOISMERKIT
 
 ### 8.1 Lainausmerkit
 
 Suomessa käytetään:
+
 - Ensisijaisesti: ”lainaus” (ala- ja yläpuoliset kaksoisheittomerkit)
 - Toissijaisesti (lainauksen sisällä): ’lainaus lainauksen sisällä’
 
 EI käytetä:
+
 - Kulmikkaita lainausmerkkejä »näin» (ruotsin malli)
 - Suoria tikkuheittomerkkejä "näin" (englannin malli) — näitä tosin käytetään yleisesti digitaalisissa teksteissä
 
@@ -286,7 +313,7 @@ EI käytetä:
 - Yhdysviiva: - (lyhyt, sanojen yhdistämiseen)
 - Ajatusviiva: – (pidempi, välien ja taukojen merkitsemiseen)
 
----
+______________________________________________________________________
 
 ## 9. TEKOÄLYN TYYPILLISET VIRHEET SUOMEKSI
 
@@ -295,6 +322,7 @@ Kiinnitä erityistä huomiota näihin, sillä nämä ovat tekoälylle tyypillisi
 ### 9.1 Anglismit ja käännöslainat
 
 Vältä englannista lainattuja rakenteita:
+
 - VÄÄRIN: "Tämä on tärkeä askel eteenpäin" → PAREMMIN: konkreettinen ilmaisu tilanteesta
 - VÄÄRIN: "Tulevaisuus näyttää valoisalta" → PAREMMIN: tarkempi perustelu
 - VÄÄRIN: "Nykypäivän nopeatempoisessa maailmassa" → PAREMMIN: suoraan asiaan
@@ -306,6 +334,7 @@ Vältä englannista lainattuja rakenteita:
 ### 9.2 Liian juhlallinen tai mahtipontinen tyyli
 
 Tekoäly tuottaa usein liian ylevää kieltä suomeksi, koska sen opetusdatasta iso osa on englanninkielistä ja siksi amerikkalaisen yritysretoriikan sävyttämää. Vältä:
+
 - Ylimääräisiä superlatiiveja ja korostussanoja
 - Geneerisiä kannustavia loppulauseita
 - "Yhteenvetona voidaan todeta, että..." -tyyppisiä johdatteluja
@@ -314,6 +343,7 @@ Tekoäly tuottaa usein liian ylevää kieltä suomeksi, koska sen opetusdatasta 
 ### 9.3 Yhdyssanavirheet (kriittinen)
 
 Tekoäly tekee erityisen usein yhdyssanavirheitä:
+
 - Kirjoittaa erikseen sanoja, jotka kuuluvat yhteen: "verkko sivusto" → verkkosivu
 - Kirjoittaa yhteen sanoja, jotka kuuluvat erikseen: "läsnäoleva" → läsnä oleva
 
@@ -335,35 +365,40 @@ Suomen kielen sanajärjestys on vapaampi kuin englannin, mutta tekoäly usein no
 - Saman asian toistaminen eri sanoin (täyteteksti)
 - Latteita kielikuvia ja kliseitä
 
----
+______________________________________________________________________
 
 ## 10. OIKOLUKU JA TARKASTUSPROSESSI
 
 Kun tarkistat suomenkielistä tekstiä, käy läpi seuraava tarkistuslista järjestyksessä:
 
 ### Vaihe 1: Yhdyssanatarkistus
+
 - Käy läpi kaikki substantiivi + substantiivi -yhdistelmät
 - Tarkista, että perusmuotoisella substantiivilla alkavat ilmaukset on kirjoitettu yhteen
 - Tarkista partisiippi-ilmaukset (läsnä oleva, edellä mainittu jne.)
 - Tarkista, ettei yhdysmerkkiä ja ajatusviivaa ole sekoitettu
 
 ### Vaihe 2: Pilkutustarkistus
+
 - Tarkista, että kaikissa sivulauseissa (että, jos, kun, koska, joka, mikä) on pilkku
 - Tarkista päälauseiden välinen pilkutus
 - Tarkista, ettei Oxford-pilkkua ole käytetty
 - Tarkista desimaalipilkut
 
 ### Vaihe 3: Alkukirjaimet
+
 - Tarkista, ettei kansallisuuksia, kieliä, viikonpäiviä tai kuukausia ole kirjoitettu isolla
 - Tarkista erisnimet
 
 ### Vaihe 4: Numerot ja lyhenteet
+
 - Tarkista tuhaterotin (välilyönti, ei piste)
 - Tarkista desimaalierotin (pilkku, ei piste)
 - Tarkista lyhenteiden pisteet ja taivutus
 - Tarkista mittayksiköiden välilyönnit (5 kg, 15 %)
 
 ### Vaihe 5: Lauserakenne ja tyyli
+
 - Etsi anglismeja ja käännöslainoja
 - Arvioi, onko tyyli liian mahtipontinen
 - Tarkista passiivin liiallinen käyttö
@@ -371,18 +406,20 @@ Kun tarkistat suomenkielistä tekstiä, käy läpi seuraava tarkistuslista järj
 - Etsi turhaa toistoa ja täytetekstiä
 
 ### Vaihe 6: Yhteenveto
+
 - Listaa löydetyt virheet ja korjausehdotukset
 - Perustele korjaukset viittaamalla sääntöihin
 - Tarjoa korjattu versio tekstistä
 
----
+______________________________________________________________________
 
 ## 11. VIITTEET JA LISÄTIEDOT
 
 Kattavammat ohjeet löytyvät:
-- Kielitoimiston ohjepankki: https://kielitoimistonohjepankki.fi/
-- Kielitoimiston sanakirja: https://www.kielitoimistonsanakirja.fi/
-- Iso suomen kielioppi: https://kaino.kotus.fi/visk/etusivu.php
-- Kielikello-lehti: https://kielikello.fi/
+
+- Kielitoimiston ohjepankki: <https://kielitoimistonohjepankki.fi/>
+- Kielitoimiston sanakirja: <https://www.kielitoimistonsanakirja.fi/>
+- Iso suomen kielioppi: <https://kaino.kotus.fi/visk/etusivu.php>
+- Kielikello-lehti: <https://kielikello.fi/>
 
 Epäselvissä tapauksissa tarkista Kielitoimiston sanakirjasta sanan oikea kirjoitusasu ja taivutus.
