@@ -6,7 +6,7 @@ Works with Claude Code, Codex, and any other AI agent platform that supports ski
 
 Built on the official [Kielitoimiston ohjepankki](https://kielitoimistonohjepankki.fi/) (Institute for the Languages of Finland).
 
----
+______________________________________________________________________
 
 ## Why this exists
 
@@ -62,7 +62,7 @@ mkdir -p ~/.claude/skills && curl -sL https://raw.githubusercontent.com/akunikko
 
 Give Claude, Codex, or any other skill-supporting AI the repo URL and ask it to install the skill:
 
-```
+```text
 Install this skill: https://github.com/akunikkola/suomi-finnish-skill
 ```
 
@@ -76,17 +76,17 @@ Add the downloaded file to Claude by dragging it into the Claude Code window or 
 
 ## What it covers
 
-| Area | Examples |
-|---|---|
-| Compound words | When to join vs. separate, hyphenation rules |
-| Punctuation | Comma rules, decimal comma, no Oxford comma |
-| Capitalization | Lowercase weekdays, months, nationalities |
-| Numbers & units | Space as thousands separator, unit spacing (5 kg, 15 %) |
-| Abbreviations | Dot rules, inflection with colons (EU:n) |
-| Dashes | Hyphen (-) vs. en dash (--) usage |
-| Sentence structure | Case agreement, postpositions, possessive suffixes |
-| AI-specific errors | Anglicisms, overly formal tone, filler text |
-| Proofreading | 6-step review checklist |
+| Area               | Examples                                                |
+| ------------------ | ------------------------------------------------------- |
+| Compound words     | When to join vs. separate, hyphenation rules            |
+| Punctuation        | Comma rules, decimal comma, no Oxford comma             |
+| Capitalization     | Lowercase weekdays, months, nationalities               |
+| Numbers & units    | Space as thousands separator, unit spacing (5 kg, 15 %) |
+| Abbreviations      | Dot rules, inflection with colons (EU:n)                |
+| Dashes             | Hyphen (-) vs. en dash (--) usage                       |
+| Sentence structure | Case agreement, postpositions, possessive suffixes      |
+| AI-specific errors | Anglicisms, overly formal tone, filler text             |
+| Proofreading       | 6-step review checklist                                 |
 
 ## Usage
 
@@ -99,7 +99,7 @@ Once installed, the skill activates automatically when you:
 
 You can also invoke it manually:
 
-```
+```text
 /suomi-finnish
 ```
 
@@ -119,7 +119,7 @@ Found a rule that's missing or incorrect? Open an issue or PR. Finnish language 
 
 MIT
 
----
+______________________________________________________________________
 
 # Suomen kielen skills-tiedosto Claudelle, Codexille tai mille tahansa muulle skills-ominaisuutta tukevalle työkalulle
 
@@ -159,7 +159,7 @@ mkdir -p ~/.claude/skills && curl -sL https://raw.githubusercontent.com/akunikko
 
 Anna Claudelle, Codexille tai muulle skillejä tukevalle tekoälylle repon osoite ja pyydä asentamaan skill:
 
-```
+```text
 Asenna tämä skill: https://github.com/akunikkola/suomi-finnish-skill
 ```
 
