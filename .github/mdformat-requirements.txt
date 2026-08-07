@@ -1,0 +1,7 @@
+# mdformat-frontmatter is required: plain mdformat does not understand
+# SKILL.md's YAML frontmatter and will mangle it. To reformat locally,
+# always install from this file rather than a bare `pip install mdformat`:
+#   pip install -r .github/mdformat-requirements.txt && mdformat .
+mdformat==0.7.22
+mdformat-frontmatter==2.1.2
+mdformat-tables==1.0.0

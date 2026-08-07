@@ -1,0 +1,11 @@
+# markdownlint-cli2 config: https://github.com/DavidAnson/markdownlint-cli2
+config:
+  default: true
+
+  # Prose lines are intentionally unwrapped (one paragraph per line);
+  # wrapping is left to the reader's editor, not enforced here.
+  MD013: false
+
+  # README.md is bilingual (English then Finnish) and uses one H1 per
+  # language section by design.
+  MD025: false
